@@ -234,11 +234,6 @@ Run the test suite:
 npm test
 ```
 
-Run tests in watch mode:
-```bash
-npm run test:watch
-```
-
 Generate coverage report:
 ```bash
 npm run test:coverage
